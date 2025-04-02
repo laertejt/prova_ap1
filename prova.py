@@ -11,12 +11,12 @@
 # 8 - (1,0 ponto) Encontre a empresa com o valor do ROC mais alto.
 # 9 - (1,0 ponto) Leia o arquivo ibov.csv
 # 10 - (1,0 ponto) Faça o grafico do preço de fechmanero do ibovespa x data.
-# 11 - (1,0 ponto) Acesse a api: https://laboratoriodefinancas.com/api/v1/balanco/
+# 11 - (1,0 ponto) Acesse a api: https://laboratoriodefinancas.com/api/v1/balanco/ da empresa Banco do Brasil do trimestre 4o.trimestre 2024.
         # params = {
         #     'ticker': 'BBAS3',
         #     'ano_tri': '20244T',
         # }
-# 12 - (1,0 ponto) Calcule o ROE da empresa Banco do Brasil do trimestre 4o.trimestre 2024
+# 12 - (1,0 ponto) Calcule o ROE do banco.
         # ROE = (3.11 - Lucro ou Prejuízo Líquido Consolidado do Período) / (2.07 - Patrimônio Líquido Consolidado)
 # 13 - (1,0 ponto) Salve sua resoluçao dos exercícios e suba no seu github com o nome "seunome_ap1" 
 
