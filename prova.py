@@ -1,9 +1,9 @@
-# 1 - (0,5 ponto) Leia o arquivo imoveis_brasil
+# 1 - (0,5 ponto) Leia o arquivo imoveis_brasil.csv.
 # 2 - (1,0 ponto) Encontre a cidade com o imóvel mais caro da amostra.
 # 3 - (1,0 ponto) Descubra qual é o ano da contrução do imovel mais barato de Curitiba.
-# 4 - (0,5 ponto) Leia o arquivo olympics_historico.
-# 5 - (1,0 ponto) Calcule a media salarial do Homem e a média salarial da Mulher.
-# 6 - (1,0 ponto) Encontre o nome e o email da pessoa mais nova da Area de formação de "Direito".
+# 4 - (0,5 ponto) Leia o arquivo cadastro.xlsx.
+# 5 - (1,0 ponto) Calcule a média salarial do Homem e a média salarial da Mulher.
+# 6 - (1,0 ponto) Encontre o nome e o email da pessoa mais nova (Idade) do Curso (Area de formação) de "Direito".
 # 7 - (0,5 ponto) Acesse a api: https://laboratoriodefinancas.com/api/v1/planilhao/ para o dia "2025-04-01":
         # params = {
         # 'data_base': '2024-04-01'
